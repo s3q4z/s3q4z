@@ -1,3 +1,4 @@
-# Hola, Soy Santiago Fabián Quispe.
+# Santiago Fabián Quispe (a.k.a. s3q4z)
 
-Soy un estudiante aficionado al Software Libre y GNU/Linux.
+***Programador Aficionado y Creador de Contenido.***
+Software Libre, Videojuegos y Privacidad Online.
